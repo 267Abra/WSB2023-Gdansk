@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T17:44:07.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="Ewyt1OHVQZG2ovzD7lOw" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T17:44:47.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="isVNPbAq1voQejdrDeYn" version="21.5.0" type="github">
   <diagram name="Page-1" id="1So7QPZy61Bhiam6hHsv">
-    <mxGraphModel dx="1466" dy="1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,8 +315,8 @@
         </mxCell>
         <mxCell id="WXrp-uN07uE1j_KBOkGB-139" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-827" y="-684" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-435.99999999999994" y="-484.25" as="sourcePoint" />
-            <mxPoint x="-383.43" y="-483.75" as="targetPoint" />
+            <mxPoint x="-438.99999999999994" y="-484.25" as="sourcePoint" />
+            <mxPoint x="-386.43" y="-483.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WXrp-uN07uE1j_KBOkGB-141" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-weight: normal; background-color: initial;&quot;&gt;Azure Arc&amp;nbsp; enabled servers&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -490,14 +490,14 @@
         </mxCell>
         <mxCell id="WXrp-uN07uE1j_KBOkGB-203" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-827" y="-684" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-435.99999999999994" y="-288.54999999999995" as="sourcePoint" />
-            <mxPoint x="-383.43" y="-288.04999999999995" as="targetPoint" />
+            <mxPoint x="-438.99999999999994" y="-288.54999999999995" as="sourcePoint" />
+            <mxPoint x="-386.43" y="-288.04999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WXrp-uN07uE1j_KBOkGB-204" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-827" y="-684" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-435.99999999999994" y="-380.56999999999994" as="sourcePoint" />
-            <mxPoint x="-383.43" y="-380.06999999999994" as="targetPoint" />
+            <mxPoint x="-438.99999999999994" y="-380.56999999999994" as="sourcePoint" />
+            <mxPoint x="-386.43" y="-380.06999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
